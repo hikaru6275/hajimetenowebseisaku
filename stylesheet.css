@@ -1,0 +1,14 @@
+li {
+  font-family: 'Courier New', Courier, monospace
+}
+
+h1 {
+  font-size: 20px;
+  float: left;
+  padding: 20px 40px;
+}
+
+p {
+  float: right;
+  font-size: 10px;
+}
